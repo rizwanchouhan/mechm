@@ -28,11 +28,12 @@ This paper introduces a framework called MECHM, aiming to improve mental health 
 
 # Datasets
 
-This study utilized three datasets for developing and evaluating the MECHM framework, covering various aspects of human emotion in conversations.
+This study utilized four datasets for developing and evaluating the MECHM framework, covering various aspects of human emotion in conversations.
 
-- **SEMAINE dataset:** Captures interactions between humans and avatars, providing video and audio recordings with annotations of emotional states.
-- **AESI dataset:** Contains sentences designed to evoke specific emotions, recorded by native speakers.
-- **ECF dataset:** Features conversations from the TV show Friends, with annotations linking emotions to conversation context.
+- **[SEMAINE dataset](https://semaine-db.eu/):** Captures interactions between humans and avatars, providing video and audio recordings with annotations of emotional states.  
+- **[AESI dataset](https://robotics.ntua.gr/aesi-dataset/):** Contains sentences designed to evoke specific emotions, recorded by native speakers.  
+- **[ECF dataset](https://github.com/NUSTM/MECPE/tree/main/data):** Features conversations from the TV show *Friends*, with annotations linking emotions to conversation context.  
+- **[MER-2025 dataset](https://github.com/zeroQiaoba/MERTools/tree/master/MER2025):** A multi-modal emotion recognition dataset featuring videos, audio, and textual data, annotated with fine-grained emotional categories.
 
 # Prepare the Pre-trained LLM Weights
 
