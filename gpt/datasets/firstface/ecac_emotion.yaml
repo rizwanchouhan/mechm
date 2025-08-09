@@ -1,0 +1,10 @@
+datasets:
+  MECHM_emotion_caption:
+    data_type: images
+    
+    build_info:
+      image_path: /home/czb/selected_face/MECHM/videos
+      # ann_path: /home/czb/selected_face/MECHM/train_window12.json  # MECHM emotion
+      ann_path: /home/czb/selected_face/MECHM/cause_all_window12.json  # MECHM cause
+
+
